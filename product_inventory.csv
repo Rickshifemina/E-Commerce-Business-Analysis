@@ -1,0 +1,211 @@
+product_id,product_name,category,stock_quantity,reorder_level
+PROD001,Dress,Clothing,90,147
+PROD002,Vacuum Cleaner,Home & Kitchen,38,95
+PROD003,T-Shirt,Clothing,3,117
+PROD004,Dress,Clothing,143,103
+PROD005,Vacuum Cleaner,Home & Kitchen,51,117
+PROD006,Headphones,Electronics,112,53
+PROD007,Cookware Set,Home & Kitchen,18,124
+PROD008,T-Shirt,Clothing,91,50
+PROD009,Jeans,Clothing,120,134
+PROD010,Dress,Clothing,16,108
+PROD011,T-Shirt,Clothing,172,74
+PROD012,Smartwatch,Electronics,129,58
+PROD013,Dress,Clothing,129,74
+PROD014,T-Shirt,Clothing,87,131
+PROD015,Vacuum Cleaner,Home & Kitchen,54,120
+PROD016,Smartwatch,Electronics,90,75
+PROD017,Dinner Set,Home & Kitchen,3,105
+PROD018,T-Shirt,Clothing,122,98
+PROD019,Jacket,Clothing,99,131
+PROD020,Jeans,Clothing,139,114
+PROD021,Laptop,Electronics,181,110
+PROD022,Dress,Clothing,59,58
+PROD023,Mixer,Home & Kitchen,28,59
+PROD024,Cookware Set,Home & Kitchen,188,60
+PROD025,Smartphone,Electronics,45,145
+PROD026,Dress,Clothing,96,134
+PROD027,Jacket,Clothing,48,85
+PROD028,Jeans,Clothing,119,105
+PROD029,Laptop,Electronics,145,81
+PROD030,Headphones,Electronics,75,132
+PROD031,Jeans,Clothing,73,121
+PROD032,Mixer,Home & Kitchen,151,84
+PROD033,Laptop,Electronics,16,135
+PROD034,Smartwatch,Electronics,106,53
+PROD035,Dinner Set,Home & Kitchen,95,142
+PROD036,Mixer,Home & Kitchen,183,111
+PROD037,Dress,Clothing,88,112
+PROD038,Dress,Clothing,51,144
+PROD039,Jeans,Clothing,70,57
+PROD040,Jacket,Clothing,19,125
+PROD041,Smartphone,Electronics,156,118
+PROD042,Vacuum Cleaner,Home & Kitchen,82,110
+PROD043,Jeans,Clothing,177,143
+PROD044,Mixer,Home & Kitchen,118,112
+PROD045,Dress,Clothing,117,110
+PROD046,Cookware Set,Home & Kitchen,142,148
+PROD047,Jacket,Clothing,158,86
+PROD048,Dinner Set,Home & Kitchen,12,53
+PROD049,Dress,Clothing,55,105
+PROD050,Smartphone,Electronics,18,92
+PROD051,Dress,Clothing,69,70
+PROD052,Vacuum Cleaner,Home & Kitchen,155,107
+PROD053,Jeans,Clothing,149,65
+PROD054,Headphones,Electronics,155,102
+PROD055,Laptop,Electronics,79,67
+PROD056,T-Shirt,Clothing,113,106
+PROD057,Dinner Set,Home & Kitchen,32,144
+PROD058,Dinner Set,Home & Kitchen,113,87
+PROD059,Vacuum Cleaner,Home & Kitchen,172,81
+PROD060,Mixer,Home & Kitchen,175,146
+PROD061,Headphones,Electronics,114,68
+PROD062,Smartwatch,Electronics,62,133
+PROD063,Jacket,Clothing,25,97
+PROD064,Dinner Set,Home & Kitchen,86,123
+PROD065,T-Shirt,Clothing,0,75
+PROD066,Smartphone,Electronics,189,131
+PROD067,Jacket,Clothing,92,94
+PROD068,Dress,Clothing,199,94
+PROD069,Cookware Set,Home & Kitchen,105,64
+PROD070,Smartphone,Electronics,130,149
+PROD071,Laptop,Electronics,83,67
+PROD072,Dress,Clothing,106,80
+PROD073,Headphones,Electronics,115,64
+PROD074,Cookware Set,Home & Kitchen,4,142
+PROD075,Dress,Clothing,172,64
+PROD076,Smartwatch,Electronics,11,114
+PROD077,Cookware Set,Home & Kitchen,47,136
+PROD078,Laptop,Electronics,13,95
+PROD079,Dinner Set,Home & Kitchen,52,124
+PROD080,T-Shirt,Clothing,44,65
+PROD081,Cookware Set,Home & Kitchen,159,104
+PROD082,Smartphone,Electronics,157,79
+PROD083,T-Shirt,Clothing,11,142
+PROD084,Laptop,Electronics,99,90
+PROD085,T-Shirt,Clothing,82,116
+PROD086,Headphones,Electronics,43,66
+PROD087,T-Shirt,Clothing,152,75
+PROD088,T-Shirt,Clothing,169,122
+PROD089,Mixer,Home & Kitchen,20,130
+PROD090,Jacket,Clothing,188,113
+PROD091,Dress,Clothing,65,144
+PROD092,Vacuum Cleaner,Home & Kitchen,100,107
+PROD093,Dress,Clothing,20,144
+PROD094,Laptop,Electronics,25,124
+PROD095,Mixer,Home & Kitchen,159,135
+PROD096,Vacuum Cleaner,Home & Kitchen,16,52
+PROD097,Jacket,Clothing,3,77
+PROD098,Cookware Set,Home & Kitchen,38,145
+PROD099,Headphones,Electronics,14,53
+PROD100,Jacket,Clothing,32,89
+PROD101,T-Shirt,Clothing,188,124
+PROD102,T-Shirt,Clothing,141,106
+PROD103,Laptop,Electronics,89,114
+PROD104,Headphones,Electronics,46,96
+PROD105,Smartphone,Electronics,129,129
+PROD106,Mixer,Home & Kitchen,89,83
+PROD107,Cookware Set,Home & Kitchen,65,94
+PROD108,Jeans,Clothing,175,81
+PROD109,Jacket,Clothing,191,93
+PROD110,Jacket,Clothing,193,146
+PROD111,Mixer,Home & Kitchen,175,60
+PROD112,Smartwatch,Electronics,80,85
+PROD113,Headphones,Electronics,17,62
+PROD114,Jeans,Clothing,178,106
+PROD115,Headphones,Electronics,131,133
+PROD116,Vacuum Cleaner,Home & Kitchen,80,74
+PROD117,Smartphone,Electronics,160,119
+PROD118,Jacket,Clothing,150,86
+PROD119,Jacket,Clothing,180,139
+PROD120,Laptop,Electronics,12,53
+PROD121,Jeans,Clothing,70,75
+PROD122,Dress,Clothing,57,131
+PROD123,Dinner Set,Home & Kitchen,190,62
+PROD124,Dinner Set,Home & Kitchen,64,121
+PROD125,Headphones,Electronics,103,100
+PROD126,Jeans,Clothing,41,96
+PROD127,Smartwatch,Electronics,94,82
+PROD128,Vacuum Cleaner,Home & Kitchen,99,129
+PROD129,Dinner Set,Home & Kitchen,88,91
+PROD130,Mixer,Home & Kitchen,108,80
+PROD131,Headphones,Electronics,113,89
+PROD132,Dinner Set,Home & Kitchen,39,136
+PROD133,Jacket,Clothing,93,65
+PROD134,Cookware Set,Home & Kitchen,101,105
+PROD135,Headphones,Electronics,20,123
+PROD136,Cookware Set,Home & Kitchen,82,85
+PROD137,Smartwatch,Electronics,160,144
+PROD138,T-Shirt,Clothing,110,145
+PROD139,Dinner Set,Home & Kitchen,197,134
+PROD140,Smartwatch,Electronics,41,129
+PROD141,Jeans,Clothing,36,105
+PROD142,Dress,Clothing,199,142
+PROD143,Vacuum Cleaner,Home & Kitchen,128,97
+PROD144,Jeans,Clothing,76,129
+PROD145,T-Shirt,Clothing,153,107
+PROD146,Headphones,Electronics,112,64
+PROD147,Laptop,Electronics,38,121
+PROD148,Smartwatch,Electronics,46,64
+PROD149,Mixer,Home & Kitchen,55,70
+PROD150,Dress,Clothing,109,113
+PROD151,Vacuum Cleaner,Home & Kitchen,185,134
+PROD152,Vacuum Cleaner,Home & Kitchen,155,56
+PROD153,Smartphone,Electronics,184,101
+PROD154,Jacket,Clothing,70,68
+PROD155,Dinner Set,Home & Kitchen,109,135
+PROD156,Cookware Set,Home & Kitchen,199,95
+PROD157,Dinner Set,Home & Kitchen,172,87
+PROD158,Mixer,Home & Kitchen,64,62
+PROD159,Smartphone,Electronics,3,139
+PROD160,Dinner Set,Home & Kitchen,188,93
+PROD161,Smartwatch,Electronics,60,71
+PROD162,Jacket,Clothing,170,120
+PROD163,Cookware Set,Home & Kitchen,104,84
+PROD164,Smartwatch,Electronics,146,52
+PROD165,Headphones,Electronics,85,148
+PROD166,Mixer,Home & Kitchen,99,65
+PROD167,Smartphone,Electronics,128,94
+PROD168,Cookware Set,Home & Kitchen,146,65
+PROD169,Smartphone,Electronics,50,115
+PROD170,Smartphone,Electronics,63,130
+PROD171,Dress,Clothing,62,87
+PROD172,Mixer,Home & Kitchen,28,73
+PROD173,Jacket,Clothing,146,135
+PROD174,Smartwatch,Electronics,42,99
+PROD175,Dinner Set,Home & Kitchen,69,136
+PROD176,Jeans,Clothing,38,132
+PROD177,Dinner Set,Home & Kitchen,22,106
+PROD178,Mixer,Home & Kitchen,0,105
+PROD179,Dress,Clothing,60,135
+PROD180,Dress,Clothing,24,130
+PROD181,Jacket,Clothing,131,115
+PROD182,Smartwatch,Electronics,108,127
+PROD183,T-Shirt,Clothing,107,141
+PROD184,Jeans,Clothing,0,126
+PROD185,Smartphone,Electronics,39,130
+PROD186,T-Shirt,Clothing,20,122
+PROD187,Cookware Set,Home & Kitchen,170,111
+PROD188,Cookware Set,Home & Kitchen,137,63
+PROD189,Dinner Set,Home & Kitchen,65,115
+PROD190,Laptop,Electronics,16,109
+PROD191,Jacket,Clothing,123,70
+PROD192,Dinner Set,Home & Kitchen,140,84
+PROD193,Laptop,Electronics,90,79
+PROD194,Smartwatch,Electronics,112,130
+PROD195,Laptop,Electronics,125,88
+PROD196,Smartphone,Electronics,9,74
+PROD197,Headphones,Electronics,179,93
+PROD198,Dinner Set,Home & Kitchen,137,108
+PROD199,Smartphone,Electronics,46,148
+PROD200,T-Shirt,Clothing,8,55
+PROD181,Jacket,Clothing,131,115
+PROD052,Vacuum Cleaner,Home & Kitchen,155,107
+PROD063,Jacket,Clothing,25,97
+PROD128,Vacuum Cleaner,Home & Kitchen,99,129
+PROD130,Mixer,Home & Kitchen,108,80
+PROD060,Mixer,Home & Kitchen,175,146
+PROD046,Cookware Set,Home & Kitchen,142,148
+PROD037,Dress,Clothing,88,112
+PROD086,Headphones,Electronics,43,66
+PROD056,T-Shirt,Clothing,113,106
